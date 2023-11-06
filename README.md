@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasiBobo
 - 👀 I’m interested in BRINGING IDEAS TO REALLITY
-- 📫 You can reach me easlly in telegram by just searching @WhoIsYasi
+- 📫 You can reach me easlly in telegram [@WhoIsYasi]
 
 // you can see my project sources here 
 
